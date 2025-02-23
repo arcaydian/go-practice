@@ -1,1 +1,3 @@
 # go-practice
+
+## Code snippets
